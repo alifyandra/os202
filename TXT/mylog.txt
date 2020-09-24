@@ -3,7 +3,7 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  15 L03 GitHub related
 ZCZC W00  15 L00 General Log
-ZCZC W00  20 L04 Create initial github page
+ZCZC W00  20 L04 Create initial Github page
 ZCZC W00  30 L06 Reading slide
 ZCZC W00  10 L00 Filling log
 ZCZC W00  15 L03 Cloning repo to local
@@ -12,3 +12,7 @@ ZCZC W00  30 L04 Editing top 10 page
 ZCZC W00  50 L06 Reading textbook
 ZCZC W00  50 L05 Finding explanation to topics on the slide
 ZCZC W00  20 L03 Filling W00 top 10 list
+ZCZC W01  80 L02 Synchronous lecture
+ZCZC W01  10 L00 Filling log
+ZCZC W01 200 L21 Setting up Debian
+ZCZC W01  20 L11 Reading slide
