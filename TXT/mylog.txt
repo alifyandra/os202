@@ -16,4 +16,5 @@ ZCZC W01  80 L02 Synchronous lecture
 ZCZC W01  10 L00 Filling log
 ZCZC W01 200 L21 Setting up Debian
 ZCZC W01  20 L11 Reading slide
-test
+ZCZC W01 200 L05 Learning bash and getting used to cli
+ZCZC W01  60 L08 Creating my own bash script
