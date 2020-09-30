@@ -1,3 +1,17 @@
-# os202
+# Alifyandra's OS202 Course Repo
 
-OS202
+> #### 😎 ***Welcome visitor from another computer!***  👋
+
+
+
+#### **`bash giveVisitorGithubPagesLink.sh`** \*Enter\* 
+
+🔥🧨💨💢
+
+##### *\* Wooshh! \** 
+
+✅⬇️⬇️✅
+
+#### **[Click Me!!](https://alifyandra.github.io/os202/)**
+
+✅⬆️⬆️✅
