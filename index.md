@@ -10,7 +10,7 @@ permitted by applicable law.
 Last login: Thu Oct  1 09:22:56 2020 from 10.0.2.2
 ```
 
-# alifyandra@osp:~$ echo "*Hi there!* "
+# alifyandra@osp:~$ echo " *$QUOTE* "
 
 > ### *"UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity." - Dennis Ritchie*
 
