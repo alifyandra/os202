@@ -21,3 +21,7 @@ ZCZC W01  60 L08 Creating my own bash script
 ZCZC W01 200 L05 Browsing materials for Top 10 Topics
 ZCZC W01  60 L11 Work on the Week 1 Top 10 List
 ZCZC W01  10 L00 Filling log
+ZCZC W02  45 L04 Upgrade my GitHub Pages
+ZCZC W02  20 L03 Changed README.MD
+ZCZC W02 300 L08 Trying Pico CTF 2019 online
+ZCZC W02 240 L05 Researching while filling top 10 list
