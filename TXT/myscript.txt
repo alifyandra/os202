@@ -14,7 +14,7 @@ if [[ $list == "Y" || $list == "y" ]]; then
 	printf "\nFetching Log Code list from OS Website. \n"
 	sleep 1
 	printf "Please wait...\n"
-	curl https://osp4diss.vlsm.org/ETC/logCodes.txt
+	curl https://osp4diss.vlsm.org/ETC/logCodes.txt || wget -qO - https://osp4diss.vlsm.org/ETC/logCodes.txt
 fi
 
 printf "Enter a logcode: \n"
