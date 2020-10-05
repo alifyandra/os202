@@ -1,8 +1,11 @@
 # TOP 10 Rank
-ZCZC W00 cbkadal
-ZCZC W00 alibaba 
-ZCZC W00 kutakada
-ZCZC W01 alibaba
-ZCZC W01 cbkadal
-ZCZC W01 kutakada
-hi
+ZCZC W00 Abimanyu-TheProgrammer
+ZCZC W00 aks861
+ZCZC W00 anowanggai
+ZCZC W00 althof3
+ZCZC W00 aulia-adil
+ZCZC W01 fadintan
+ZCZC W01 akbarrafs
+ZCZC W01 Constantine-Kevin
+ZCZC W01 fahdikrie
+ZCZC W01 dandyfebriano
