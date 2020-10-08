@@ -4,7 +4,7 @@
 
 cd ../../TXT
 
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh myW03token.txt"
+FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh myW03token.txt myW03disk.txt"
 SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc
