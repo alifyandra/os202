@@ -2,7 +2,9 @@
 # Alifyandra
 # PALSU BANGET SEKALI UBAH
 
-FILES="mylog.txt mypubkey.txt myrank.txt gpgscript.sh myscript.txt"
+cd ../../TXT
+
+FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh myW03token.txt"
 SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc

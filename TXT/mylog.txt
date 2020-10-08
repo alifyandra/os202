@@ -27,3 +27,4 @@ ZCZC W02 300 L08 Trying Pico CTF 2019 online
 ZCZC W02 240 L05 Researching while filling top 10 list
 ZCZC W02  90 L02 Zoom synchronous class
 ZCZC W02  90 L03 FIXING git issue :'(
+ZCZC W03  45 L13 Getting started on assignment day
