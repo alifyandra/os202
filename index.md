@@ -20,7 +20,7 @@ Last login: Thu Oct  1 09:22:56 2020 from 10.0.2.2
 
 [My Log 📝](TXT/mylog.txt)  
 
-[Experimental Stuff 👨‍💻](https://github.com/alifyandra/os202/tree/master/experimental/)
+[Experimental Stuff 👨‍💻](https://github.com/alifyandra/os202/tree/master/SandBox)
 
 
 

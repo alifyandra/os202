@@ -2,6 +2,8 @@
 # Script to automate logging process
 # Author: alifyandra
 
+cd ../../TXT/
+
 printf "Please enter What week you wish to log.\n"
 printf "e.g. 'W01'/'W03'\n"
 
