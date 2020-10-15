@@ -2,8 +2,10 @@
 # Alifyandra
 # PALSU BANGET SEKALI UBAH
 
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh myW03token.txt myW03disk.txt"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
+
+echo "rm -f $SHA $SHA.asc"
 
 rm -f $SHA $SHA.asc
 

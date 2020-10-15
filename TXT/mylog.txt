@@ -31,3 +31,4 @@ ZCZC W03  45 L13 Getting started on assignment day
 ZCZC W03  90 L01 Replying to forum Q&A's
 ZCZC W03   5 L00 Add top 5 pages ranks
 ZCZC W03 120 L05 GSGS for Top 10 topics and materials
+ZCZC W04  60 L14 Getting started on assignment day
