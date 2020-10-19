@@ -34,3 +34,4 @@ ZCZC W03 120 L05 GSGS for Top 10 topics and materials
 ZCZC W04  60 L14 Getting started on assignment day
 ZCZC W04  20 L25 Finishing my unfinished task to make the downloaded encrypted tar file
 ZCZC W04  10 L14 Sign the files and update log
+ZCZC W04 120 L05 Researching while working on top 10 list
