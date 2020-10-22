@@ -33,7 +33,7 @@ Last login: Thu Oct  1 09:22:56 2020 from 10.0.2.2
 -   **[Week 2](w02.md)**
 -   **[Week 3](w03.md)**
 -   **[Week 4](w04.md)**
--   Week 5
+-   **[Week 5](w05.md)**
 -   Week 6
 -   Week 7
 -   Week 8

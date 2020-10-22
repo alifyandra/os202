@@ -2,7 +2,7 @@
 # Script to automate logging process
 # Author: alifyandra
 
-cd ../../TXT/
+cd /home/alifyandra/documents/repo/os202/TXT
 
 printf "Please enter What week you wish to log.\n"
 printf "e.g. 'W01'/'W03'\n"
