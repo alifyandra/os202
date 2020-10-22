@@ -36,3 +36,6 @@ ZCZC W04  20 L25 Finishing my unfinished task to make the downloaded encrypted t
 ZCZC W04  10 L14 Sign the files and update log
 ZCZC W04 120 L05 Researching while working on top 10 list
 ZCZC W05  60 L15 Getting started on weekly assignments
+ZCZC W05  60 L06 Reading for top 10
+ZCZC W05  60 L05 GSGS for top 10 list
+ZCZC W05  30 L15 Do assignments
