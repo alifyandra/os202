@@ -40,3 +40,5 @@ ZCZC W05  60 L06 Reading for top 10
 ZCZC W05  60 L05 GSGS for top 10 list
 ZCZC W05  30 L15 Do assignments
 ZCZC W06  15 L00 Added top ranks
+ZCZC W06  30 L05 figuring out the assigment
+ZCZC W06 120 L16 Figuring out the bug in the assignment
