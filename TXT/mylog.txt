@@ -44,3 +44,4 @@ ZCZC W06  30 L05 figuring out the assigment
 ZCZC W06 120 L16 Figuring out the bug in the assignment
 ZCZC W06  90 L16 tarring back the folder and encrypting it
 ZCZC W06 300 L25 Learning C
+ZCZC W06 360 L16 Correcting my assignment and doing top 10 too.
