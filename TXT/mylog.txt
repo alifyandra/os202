@@ -47,3 +47,4 @@ ZCZC W06 300 L25 Learning C
 ZCZC W06 360 L16 Correcting my assignment and doing top 10 too.
 ZCZC W07  60 L17 Finish the W07 tarball assignment
 ZCZC W07  30 L17 fill up top 10
+ZCZC W07 360 L17 Finishin top 10 list
