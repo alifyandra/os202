@@ -50,3 +50,4 @@ ZCZC W07  30 L17 fill up top 10
 ZCZC W07 360 L17 Finishin top 10 list
 ZCZC W08  45 L18 Getting started, chktoken and rank
 ZCZC W08 120 L18 Finish tarball assignment
+ZCZC W08 200 L18 Filling top 10 list
